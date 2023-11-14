@@ -1,0 +1,9 @@
+ASCII-Tabelle: 
+https://www.torsten-horn.de/techdocs/ascii.htm
+
+PlantUML: 
+https://plantuml.com/de/guide
+https://plantuml.com/en/
+
+
+

@@ -1,0 +1,5 @@
+test
+Python
+Test
+exit()
+& C:/Users/mjzag/AppData/Local/Programs/Python/Python311/python.exe c:/Users/mjzag/Desktop/INTOcode/Python/File_Word_Counter.py
