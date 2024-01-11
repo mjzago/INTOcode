@@ -1,0 +1,13 @@
+let par1 = 5
+let par2 = 6
+function myfunction(par1, par2) {
+    if (typeof par1==!Number){
+        console.log('Num1 is not anumber');
+        return;
+} 
+if (typeof par1==!Number){
+    console.log('Num1 is not anumber');
+    return;
+}
+
+console.log(isNaN(par1), isNaN(par2));
